@@ -5,6 +5,6 @@ This was more for demonstration rather than practicality. If you have any questi
 
 Below, you will find a screenshot of part of the output I obtained from Xilinx Vivado.
 
-![image](https://github.com/JuniorBrice/JR-MULTIPLIER-VERIFICATION/assets/79341423/66f848ba-b1f1-4682-ac8c-7dadba0e0b1e)
+![image](https://github.com/JuniorBrice/JR-MULTIPLIER-VERIFICATION/assets/79341423/64da8ff3-d9d8-49ea-b786-dac15bd9ba5c)
 
 Enjoy! 
